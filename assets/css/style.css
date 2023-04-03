@@ -57,7 +57,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #2e2249;
   line-height: 28px;
 }
 
@@ -617,7 +617,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #2e2249;
   line-height: 44px;
 }
 
@@ -635,7 +635,7 @@ p {
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #2e2249;
 }
 
 /*--------------------------------------------------------------
