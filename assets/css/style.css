@@ -663,7 +663,7 @@ p {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #999999;
+  color: #292929;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -1040,7 +1040,7 @@ p {
 
 .rep {
   font-size: 13px;
-  color: #b8a07e;
+  color: #292929;
   letter-spacing: 0.1em;
   font-weight: 500;
   text-transform: capitalize;
